@@ -5,7 +5,8 @@ The game is about collecting the pickup and dodging the obstacles
 
 # Start the game
      You can try the game from this link
-     [▶️](https://monitv98.github.io/roll-a-ball-game)
+     
+     https://monitv98.github.io/roll-a-ball-game
      
 ## Built With 🛠️
 
